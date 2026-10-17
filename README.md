@@ -1,14 +1,17 @@
+
 # Arthur Rodrigues
 
 ### Desenvolvedor Web em Formação
 
-Desenvolvedor em formação, com foco na criação de aplicações web modernas, responsivas e funcionais.
+Sou desenvolvedor web em formação, com foco na criação de aplicações modernas, responsivas e funcionais.
 
-Atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end, lógica de programação e versionamento de código, construindo projetos práticos para fortalecer minhas habilidades.
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento front-end, JavaScript, lógica de programação e boas práticas de desenvolvimento.
+
+Construo projetos práticos para transformar meus estudos em experiência e desenvolver soluções para problemas reais.
 
 ---
 
-### Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -19,40 +22,77 @@ Atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end, l�
 
 ---
 
-### Projetos em Destaque
+## Projetos em Destaque
 
-**Dashboard Financeiro**
+### Dashboard Financeiro
 
-Aplicação web desenvolvida para gerenciamento de finanças pessoais.
+Aplicação web para gerenciamento de finanças pessoais.
 
-Principais funcionalidades:
-- Cadastro, edição e exclusão de movimentações.
-- Controle de receitas, despesas e saldo.
-- Gráficos financeiros e filtros.
-- Armazenamento local utilizando JavaScript.
+**Funcionalidades:**
+- Controle de receitas e despesas.
+- Cálculo de saldo.
+- Filtros e gráficos financeiros.
+- Armazenamento local.
 - Interface responsiva.
 
 **Tecnologias:** HTML, CSS e JavaScript.
 
-[Visualizar código](https://github.com/Arthurrodrigues07/dashboard-financeiro)
-
-[Visualizar projeto](https://arthurrodrigues07.github.io/dashboard-financeiro/)
+[Visualizar projeto](https://arthurrodrigues07.github.io/dashboard-financeiro/) | [Código-fonte](https://github.com/Arthurrodrigues07/dashboard-financeiro)
 
 ---
 
-### Atualmente Estudando
+### TaskFlow — Gerenciador de Tarefas
+
+Aplicação web para organização e gerenciamento de tarefas.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+[Visualizar projeto](https://arthurrodrigues07.github.io/taskflow/) | [Código-fonte](https://github.com/Arthurrodrigues07/taskflow)
+
+---
+
+### StockFlow — Gestão de Estoque e Vendas
+
+Sistema web desenvolvido para auxiliar no gerenciamento de produtos, estoque e vendas.
+
+**Funcionalidades:**
+- Cadastro e gerenciamento de produtos.
+- Controle de entradas e saídas de estoque.
+- Registro de vendas.
+- Dashboard e relatórios.
+- Importação e exportação de backups.
+- Armazenamento local.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+[Visualizar projeto](https://arthurrodrigues07.github.io/stockflow/) | [Código-fonte](https://github.com/Arthurrodrigues07/stockflow)
+
+---
+
+## WebForge
+
+Projeto independente voltado à criação de sites profissionais para empresas, pequenos negócios e profissionais autônomos.
+
+Foco no desenvolvimento de interfaces modernas, responsivas e funcionais.
+
+[Conhecer a WebForge](https://webforge-sites-br.netlify.app/)
+
+---
+
+## Atualmente Estudando
 
 - JavaScript e manipulação do DOM.
 - Desenvolvimento de interfaces responsivas.
+- Lógica de programação.
 - Git e GitHub.
-- Boas práticas de programação.
-- Desenvolvimento de aplicações web.
+- Boas práticas de desenvolvimento web.
+- Organização e estruturação de projetos.
 
 ---
 
-### Meu GitHub
+## Meus Repositórios
 
-[Ver meus repositórios](https://github.com/Arthurrodrigues07?tab=repositories)
+[Explorar projetos no GitHub](https://github.com/Arthurrodrigues07?tab=repositories)
 
 ---
 
